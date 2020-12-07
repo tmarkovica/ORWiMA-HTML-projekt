@@ -1,0 +1,43 @@
+main {
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+#customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #143c46;
+    color: white;
+}
+
+#customers td, #customers th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#customers {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#customers tr:nth-child(even) { background-color: #c8c5c5; }
+
+#customers tbody tr:hover { background-color: rgb(168, 221, 228); }
+
+#customers caption {
+    margin: 10px;
+}
+
+#customers tfoot {
+    background-color: #65bbd1;
+    border-top: 2px solid;
+}
+
+main div {
+    margin-top: 5em;
+}
+
+main div p {
+    margin-top: 1em;
+}

@@ -1,0 +1,17 @@
+main h1 {
+    text-align: center;
+}
+
+main section {
+    margin-left: 10em;
+    margin-right: 10em;
+    text-align: center;
+}
+
+main section h2 {
+    margin: 1em;
+}
+
+main section p {
+    margin: 1em;
+}
