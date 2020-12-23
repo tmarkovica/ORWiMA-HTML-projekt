@@ -15,3 +15,8 @@ main section h2 {
 main section p {
     margin: 1em;
 }
+
+#imgActivities {
+    width: 100%;
+    height: auto;
+}
