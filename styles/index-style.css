@@ -26,12 +26,6 @@ main p img:hover {
     height: 650px;
 }
 
-main p ul {
-    color: white;
-    position: absolute;
-    background-color: gray;
-}
-
 .office1-list {
     color: black;
     position: absolute;

@@ -98,44 +98,7 @@ body{
     height: 15px;
 }
 
-/*
-.naslov-kategorije {
-  
-  padding: 0px 0px 100px 0px ;
-  position: relative;
-  box-shadow: maroon;
-
-}
-
-.naslovneobjave {
-  background-color: lightblue;
-  position: absolute; 
-}
-
-.nobjava {
-  background-color: lightgreen;
-  block-size: 100px;
-  width: 50%;
-  padding: 20px;
-
-  
-}
-
-.nobjava a {
-  background-color: lightslategrey;
-  padding: 50px;
-  margin: 0%;
-  text-shadow: maroon;
-  border-radius: 150px;
-  float: left;
-}
-
-.nobjava img {
-  padding: 0%;
-}
-*/
-
-
+/* footer menu */
 main {
   margin-bottom: 80px;
 }
